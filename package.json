@@ -1,0 +1,25 @@
+{
+  "name": "@awexx/govee",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Client for controlling supported Govee devices using JavaScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azpha/govee-js.git"
+  },
+  "author": "Alex Frantz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azpha/govee-js/issues"
+  },
+  "homepage": "https://github.com/azpha/govee-js#readme",
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
