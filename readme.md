@@ -32,3 +32,4 @@ import Govee from "@awexx/govee";
 Some notes;
 
 - RGB needs to be the decimal value of that color. You can you something like [SpyColor](https://www.spycolor.com/) to find that.
+- This package only supports Govee lights for now.

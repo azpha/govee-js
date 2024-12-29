@@ -1,6 +1,7 @@
 {
   "name": "@awexx/govee",
   "type": "module",
+  "keywords": [ "govee", "smart light", "control smart light" ],
   "version": "1.0.0",
   "description": "Client for controlling supported Govee devices using JavaScript",
   "main": "dist/index.js",
